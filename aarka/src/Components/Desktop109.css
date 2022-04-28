@@ -11,6 +11,7 @@
     float: right;
     color: white;
     background-Color: red;
+    margin-left: 15px;
 }
 
 .class11 {
@@ -18,3 +19,26 @@
     color: white;
     background-color: yellow;
 }
+
+.container {
+    background-color: black;
+}
+
+.form-control {
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+h1 {
+    color: white;
+}
+
+.form-select {
+    background-color: black;
+}
+
+input[type="text"]::-webkit-input-placeholder {
+    color: white;
+  }
+

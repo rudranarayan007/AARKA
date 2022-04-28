@@ -7,13 +7,13 @@ import Home from "./Components/Home";
 
 export default function App() {
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/desktop31" element={<Desktop31 />} />
-        <Route path="/desktop109" element={<Desktop109 />} />
-        <Route path="/desktop107" element={<Desktop107 />} />
-      </Routes>
-    </Router>
+      <Router>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/desktop31" element={<Desktop31 />} />
+          <Route path="/desktop109" element={<Desktop109 />} />
+          <Route path="/desktop107" element={<Desktop107 />} />
+        </Routes>
+      </Router>
   );
 }

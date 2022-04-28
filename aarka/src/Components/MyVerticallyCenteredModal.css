@@ -1,5 +1,13 @@
 .class12 {
     border: none;
-    background-color: white;
+    background-color: black;
     color: blue;
+}
+
+.modal-content {
+    background-color: black;
+}
+
+h2, h4, li {
+    color: white;
 }

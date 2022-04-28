@@ -35,5 +35,16 @@
 
 .class8 {
   border-radius: 50%;
-  background-color: #b6b5b5;
+  background-color: black;
+  height: 50px;
+  width: 50px;
+}
+
+.container-md {
+  background-color: black;
+    color: white;
+}
+
+* {
+  background-color: black;
 }
