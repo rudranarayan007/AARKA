@@ -1,0 +1,322 @@
+.priccointainer {
+  position: relative;
+  width: 100%;
+  height: 1041px;
+
+  background: #141414;
+}
+.pricingcointainer {
+  position: absolute;
+  width: 78%;
+  height: 891px;
+  left: 20%;
+  top: 10.3%;
+  display: flex;
+  background: #191919;
+  border-radius: 8px;
+}
+
+.pricingtxt {
+  position: absolute;
+  width: 18%;
+  height: 4%;
+  left: 5%;
+  top: 5%;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+.pricingline {
+  position: absolute;
+  width: 100%;
+  height: 0px;
+  left: 0%;
+  top: 12%;
+
+  border: 0.5px solid #000000;
+}
+
+.goldmemercard {
+  position: absolute;
+  width: 29%;
+  height: 19.4%;
+  left: 5%;
+  top: 25%;
+
+  background: linear-gradient(
+    261.99deg,
+    #ffe48c 0.54%,
+    #fbd65b 47.73%,
+    rgba(250, 197, 22, 0.7) 98.42%
+  );
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.goldmembertxt {
+  position: absolute;
+  width: 140px;
+  height: 23px;
+  left: 7%;
+  top: 9%;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  letter-spacing: 0.06em;
+
+  color: #ffffff;
+}
+
+.editicon {
+  position: absolute;
+width: 19px;
+height: 20.12px;
+left: 90%;
+top: 6%;
+
+background: #FFFFFF;
+border-radius: 5px;
+}
+.dot1 {
+  position: absolute;
+  left: 8%;
+  right: 91%;
+  top: 32%;
+  bottom: 65%;
+  margin-left: 0%;
+
+  background: #0003c1;
+  border: 2px solid #0003c1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.bestsportstxt {
+  position: absolute;
+  width: 60%;
+  height: 13px;
+  left: 11%;
+  top: 30%;
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+
+.skilltxt {
+  position: absolute;
+  width: 60%;
+  height: 13px;
+  left: 11%;
+  top: 41%;
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.dot2 {
+  position: absolute;
+  left: 8%;
+  right: 91%;
+  top: 44%;
+  bottom: 96%;
+  margin-left: 0%;
+
+  background: #0003c1;
+  border: 2px solid #0003c1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.personalisedtxt {
+  position: absolute;
+  width: 60%;
+  height: 13px;
+  left: 11%;
+  top: 52%;
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.dot3 {
+  position: absolute;
+  left: 8%;
+  right: 91%;
+  top: 55%;
+  bottom: 96%;
+  margin-left: 0%;
+
+  background: #0003c1;
+  border: 2px solid #0003c1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.certifiedtxt {
+  position: absolute;
+  width: 60%;
+  height: 13px;
+  left: 11%;
+  top: 63%;
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.dot4 {
+  position: absolute;
+  left: 8%;
+  right: 91%;
+  top: 66%;
+  bottom: 96%;
+  margin-left: 0%;
+
+  background: #0003c1;
+  border: 2px solid #0003c1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.getcompletetxt {
+  position: absolute;
+  width: 60%;
+  height: 13px;
+  left: 11%;
+  top: 74%;
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.dot5 {
+  position: absolute;
+  left: 8%;
+  right: 91%;
+  top: 77%;
+  bottom: 96%;
+  margin-left: 0%;
+
+  background: #0003c1;
+  border: 2px solid #0003c1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.silvermemercard {
+  position: absolute;
+  width: 29%;
+  height: 19.4%;
+  left: 40%;
+  top: 25%;
+  display: flex;
+  background: linear-gradient(
+    261.99deg,
+    #a3a3a3 0.54%,
+    #dee1e6 47.73%,
+    #717171 98.42%
+  );
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+.silvermembertxt{
+ 
+  position: absolute;
+  width: 140px;
+  height: 23px;
+  left: 7%;
+  top: 9%;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  letter-spacing: 0.06em;
+
+  color: #ffffff;
+}
+.unlimitatedtxt{
+  position: absolute;
+  width: 60%;
+  height: 13px;
+  left: 11%;
+  top: 30%;
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1; 
+}
+.playanytimetxt{
+  position: absolute;
+  width: 60%;
+  height: 13px;
+  left: 11%;
+  top: 41%;
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.getslottxt{
+  position: absolute;
+  width: 60%;
+  height: 13px;
+  left: 11%;
+  top: 52%;
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+
+.multisportstxt{
+  position: absolute;
+  width: 60%;
+  height: 13px;
+  left: 11%;
+  top: 63%;
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}

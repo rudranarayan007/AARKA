@@ -1,0 +1,291 @@
+.cointainer {
+  width: 100%;
+  height: 1344px;
+  
+}
+.modalboxs{
+  width: 65%;
+  height: 10px;
+
+  margin-left: 23%;
+  margin-top: 12%;
+ 
+ 
+
+
+
+}
+.modalbody{
+  width: 125%;
+  height: 650px;
+  bottom: 150px;
+  right: 17.5%;
+}
+.addsubadmincontainer {
+  position: absolute;
+  width: 80%;
+  height: 72.5%;
+  left: 14%;
+  top: 35%;
+  display: flex;
+  background: #181818;
+  border-radius: 30px;
+}
+.addsubadmintxt {
+  position: absolute;
+  width: 30%;
+  height: 8%;
+  left: 5%;
+  top: 8%;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+.line {
+  position: absolute;
+  width: 98.9%;
+  height: 0%;
+  left: 0.5%;
+  top: 18%;
+
+  border: 0.5px solid #000000;
+}
+.sportscenter input {
+  position: absolute;
+  width: 47%;
+  height: 13%;
+  left: 3%;
+  top: 29.5%;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Roboto";
+  padding-left: 3%;
+  background: #141414;
+  border: 0px;
+}
+.sportscenter input::placeholder {
+  position: absolute;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  color: #ffffff;
+
+  padding-top: 4%;
+
+  border: 0px;
+}
+
+.mobileno input {
+  position: absolute;
+  width: 47%;
+  height: 13%;
+  left: 3%;
+  top: 49%;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Roboto";
+  padding-left: 3%;
+  background: #141414;
+  border: 0px;
+}
+
+.mobileno input::placeholder {
+  position: absolute;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  color: #ffffff;
+
+  padding-top: 4%;
+
+  border: 0px;
+}
+.passwordtxt input {
+  position: absolute;
+  width: 47%;
+  height: 13%;
+  left: 3%;
+  top: 68.5%;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Roboto";
+  padding-left: 3%;
+  background: #141414;
+  border: 0px;
+}
+.passwordtxt input::placeholder {
+  position: absolute;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  color: #ffffff;
+
+  padding-top: 4%;
+
+  border: 0px;
+}
+
+.ownernametxt input {
+  position: absolute;
+  width: 38.5%;
+  height: 13%;
+  left: 55.5%;
+  top: 29.5%;
+  padding-bottom: 1%;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Roboto";
+  padding-left: 3%;
+  background: #141414;
+  border: 0px;
+}
+.ownernametxt input::placeholder {
+  position: absolute;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  color: #ffffff;
+
+  padding-top: 4%;
+
+  border: 0px;
+}
+
+.emailtxt input {
+  position: absolute;
+  width: 38.5%;
+  height: 13%;
+  left: 55.5%;
+  padding-bottom: 1%;
+  top: 49%;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Roboto";
+  padding-left: 3%;
+  background: #141414;
+  border: 0px;
+}
+.emailtxt input::placeholder {
+  position: absolute;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  color: #ffffff;
+
+  padding-top: 4%;
+
+  border: 0px;
+}
+.conformpassword input {
+  position: absolute;
+  width: 38.5%;
+  height: 13%;
+  left: 55.5%;
+  top: 68.5%;
+  padding-bottom: 1%;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Roboto";
+  padding-left: 3%;
+  background: #141414;
+  border: 0px;
+}
+
+.conformpassword input::placeholder {
+  position: absolute;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  color: #ffffff;
+
+  padding-top: 4%;
+
+  border: 0px;
+}
+
+.but1 button {
+  position: absolute;
+  width: 8.9%;
+  height: 6.7%;
+  left: 78%;
+  top: 88%;
+  border: 0px;
+  background: #fac516;
+  border-radius: 5px;
+  color: #ffffff;
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.but1 button:hover {
+  cursor: pointer;
+}
+.but2 button {
+  position: absolute;
+  width: 10%;
+  height: 6.7%;
+  left: 88%;
+  top: 88%;
+  border: 0px;
+  background: #880a03;
+  border-radius: 5px;
+  color: #ffffff;
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+}
+.but2 button:hover {
+  cursor: pointer;
+}
+
+.closeicon {
+  position: absolute;
+  width: 2%;
+  height: 2%;
+  left: 96%;
+  top: 5%;
+  color: #ffffff;
+}
+.closeicon:hover {
+  cursor: pointer;
+}

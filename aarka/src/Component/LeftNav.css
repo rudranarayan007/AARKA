@@ -1,0 +1,125 @@
+.leftnavcointainer {
+  position: absolute;
+  width: 19%;
+  height: 1041px;
+  left: 0px;
+  top: 0px;
+
+  background: #191919;
+}
+
+.aarkalogo img {
+  margin-left: 12%;
+  margin-top: 9%;
+}
+.homeicon {
+  color: #ffff;
+
+ margin-left: 19%;
+ margin-top: 30%;
+ 
+}
+.user {
+  display: flex;
+  flex-direction: row;
+ 
+}
+.user:hover > div {
+  color: #fac516;
+  cursor: pointer;
+}
+.subadmin:hover > div {
+  color: #fac516;
+  cursor: pointer;
+}
+.price:hover > div {
+  color: #fac516;
+  cursor: pointer;
+}
+.deshbord{
+  display: flex;
+  flex-direction: row;
+ 
+}
+.deshbordtxt {
+  
+  margin-top: 32%;
+  margin-left: 12%;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #ffffff;
+}
+
+
+.deshbord:hover > div {
+  cursor: pointer;
+  color: #fac516;
+}
+
+.usericon {
+  color: #ffff;
+  margin-left: 19%;
+  margin-top: 19%;
+}
+.usertxt {
+  
+  margin-left: 12%;
+  
+  margin-top: 21%;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #ffffff;
+}
+.subadmin {
+  display: flex;
+  flex-direction: row;
+}
+
+.subadminicon {
+  color: #ffff;
+  margin-top: 19%;
+
+  margin-left: 19%;
+}
+.subadmintxt {
+ 
+
+  margin-left: 12%;
+  margin-top: 20.5%;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #ffffff;
+}
+.price {
+  display: flex;
+  flex-direction: row;
+}
+.priceicon {
+  color: #ffff;
+  margin-left: 19%;
+  margin-top: 19%;
+}
+.pricetxt {
+ 
+  margin-top: 20%;
+  margin-left: 12%;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #ffffff;
+}
