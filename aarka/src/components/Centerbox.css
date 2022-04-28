@@ -1,0 +1,91 @@
+.centerbox{
+    position: absolute;
+    top: 85px;
+    left: 293px;
+    width: 1069px;
+    height: 572px;
+    border: 2px solid;
+    background-color: rgb(20 20 20);
+}
+.menubox{
+    position: absolute;
+    width: 324.85px;
+    height: 106.25px;
+    top: 20px;
+    background: #191919;
+    box-shadow: 10px 10px 4px rgb(0 0 0 / 25%);
+    border-radius: 20px;
+}
+.top{
+    top: 150px;
+}
+.topstaddium{
+    position: absolute;
+    width: 1012px;
+    height: 205px;
+    left: 20.610000000000014px;
+    top: 307.16999999999996px;
+    background: rgba(25, 25, 25, 1);
+    border-radius: 8px;
+    /* border: 2px solid red; */
+}
+.stadiums{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: rgb(17, 22, 27);
+    height: 169px;
+    margin-top: 35px;
+    width: 1008px;
+}
+.stadiums > div{
+    background-color: rgba(25, 25, 25, 1);
+    width: 166px;
+    margin: 6px;
+    text-align: center;
+    height: 164px;
+    line-height: 75px;
+    font-size: 30px;
+}
+.menuimage{
+    position: absolute;
+    width: 64.15px;
+    height: 67.24px;
+    left: 23.75999999999999px;
+    top: 17.710000000000008px;
+    /* border: 2px solid pink; */
+    border-radius: 30px;
+    background: #353535;
+}
+.menuimageinside{
+    position: absolute;
+    width: 37.150000000000006px;
+    height: 37.239999999999995px;
+    left: 37.75999999999999px;
+    top: 32.71000000000001px;
+    /* border: 2px solid pink; */
+    border-radius: 30px;
+    background: #353535;
+}
+.textstadium{
+    /* border: 2px solid; */
+    position: absolute;
+    top: -15px;
+    left: 10px;
+    color: aliceblue;
+}
+.revenuemenu{
+    left: 107px;
+    top: -14px;
+    /* border: 2px solid; */
+    position: absolute;
+    font-size: 22px;
+    color: #dba035;
+}
+.rupeesmenu{
+    left: 110px;
+    top: 36px;
+    /* border: 2px solid; */
+    color: #ffffff;
+    position: absolute;
+    font-size: 14px;
+}

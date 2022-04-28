@@ -1,0 +1,39 @@
+.pricing{
+    position: absolute;
+    top: -21px;
+    left: 27px;
+    font-size: 24px;
+    color: aliceblue;
+}
+.framerect2{
+    position: absolute;
+    top: 124px;
+    left: 54px;
+    width: 374px;
+    border: 2px solid blanchedalmond;
+    height: 240px;
+    border-radius: 10px;
+    background: linear-gradient(261.99deg, #FFE48C 0.54%, #FBD65B 47.73%, rgba(250, 197, 22, 0.7) 98.42%);
+}
+.framerect2silver{
+    position: absolute;
+    top: 124px;
+    left: 522px;
+    width: 374px;
+    border: 2px solid blanchedalmond;
+    height: 240px;
+    background: linear-gradient(261.99deg, #A3A3A3 0.54%, #DEE1E6 47.73%, #717171 98.42%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;}
+.rectangleedit{
+    position: absolute;
+    top: 12px;
+    width: 23px;
+    left: 345px;
+}
+.edit{
+    position: absolute;
+    top: 18px;
+    width: 13px;
+    left: 350px;
+}

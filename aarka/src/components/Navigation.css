@@ -1,0 +1,77 @@
+.navbar{
+    position: absolute;
+    width: 1366px;
+    height: 85px;
+    left: 0px;
+    top: 0px;
+    /* border: 2px solid red; */
+    background: #181818;
+}
+.search{
+    position: absolute;
+    width: 443.14px;
+    height: 46.09px;
+    left: 776px;
+    top: 28px;
+    background: #141414;
+    border: 1px solid #696969;
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: aliceblue;
+}
+
+.notification{
+    position: absolute;
+left: 92.58%;
+right: 5.96%;
+top: 47.08%;
+bottom: 30.82%;
+
+/* border: 2px solid #FFFFFF; */
+
+}
+.twelve{
+    position: absolute;
+width: 12px;
+height: 12.02px;
+left: 1271px;
+top: 34px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 10px;
+line-height: 12px;
+
+color: #FFFFFF;
+}
+.ellipse{
+    /* Ellipse 14 */
+
+
+position: absolute;
+width:15px ;
+height: 15.03px;
+left: 1270px;
+top: 32px;
+
+background: #0080DD;
+}
+.profile{
+    position: absolute;
+left: 95.84%;
+right: 1.88%;
+top: 36.48%;
+bottom: 22.27%;
+
+background: #181818;
+}
+.profile2{
+    position: absolute;
+left: 95.84%;
+right: 1.88%;
+top: 36.48%;
+bottom: 22.27%;
+
+background: #d8d7d3;
+}

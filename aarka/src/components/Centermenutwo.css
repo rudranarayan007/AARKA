@@ -1,0 +1,142 @@
+.centermenutwo {
+    position: absolute;
+    height: 577px;
+    width: 1066px;
+    top: 84px;
+    left: 300px;
+    /* border: 2px solid red; */
+    background-color: rgb(20 20 20);
+}
+
+.innerframe {
+    position: absolute;
+    top: 29px;
+    left: 27px;
+    width: 1003px;
+    height: 529px;
+    background-color: #181818;
+    border-radius: 10px;
+    /* border: 2px solid red; */
+
+}
+
+.horizonal {
+    top: 57px;
+    position: absolute;
+    width: 100%;
+    left: -2px;
+    border: 2px solid;
+}
+
+.profile3 {
+    position: absolute;
+    top: 120px;
+    left: 28px;
+    width: 66px;
+    background: rgb(20 20 20);
+}
+
+.profilename {
+    position: absolute;
+    top: 79px;
+    left: 114px;
+    color: aliceblue;
+    font-size: 30px;
+}
+
+.phoneimg {
+    position: absolute;
+    top: 204px;
+    left: 53px;
+}
+
+.phoneno {
+    position: absolute;
+    top: 180px;
+    font-size: 15px;
+    left: 93px;
+    color: aliceblue;
+}
+
+.emailimg {
+    position: absolute;
+    top: 245px;
+    left: 50px;
+}
+
+.emailid {
+    position: absolute;
+    top: 222px;
+    left: 93px;
+    color: aliceblue;
+}
+
+.dobimg {
+    position: absolute;
+    top: 279px;
+    left: 49px;
+    color: aliceblue;
+}
+
+.dobtext {
+    position: absolute;
+    top: 256px;
+    left: 93px;
+    color: aliceblue;
+}
+
+.amt {
+    position: absolute;
+    top: 285px;
+    left: 26px;
+    color: aliceblue;
+    font-size: 25px;
+}
+
+.booked {
+    position: absolute;
+    top: 354px;
+    left: 26px;
+    color: aliceblue;
+}
+
+.date {
+    position: absolute;
+    top: 381px;
+    left: 26px;
+    color: aliceblue;
+}
+
+.subscription {
+    position: absolute;
+    top: 406px;
+    left: 26px;
+    color: aliceblue;
+}
+
+.totalamt {
+    position: absolute;
+    top: 431px;
+    left: 26px;
+    color: aliceblue;
+}
+
+.framerect {
+    position: absolute;
+    top: 124px;
+    left: 525px;
+    width: 446px;
+    border: 2px solid blanchedalmond;
+    height: 249px;
+    border-radius: 10px;
+    background: linear-gradient(261.99deg, #FFE48C 0.54%, #FBD65B 47.73%, rgba(250, 197, 22, 0.7) 98.42%);
+}
+
+.lists {
+    color: #000000;
+}
+
+.lists>li {
+    text-align: initial;
+    margin: 10px;
+}
