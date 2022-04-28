@@ -1,0 +1,11 @@
+.userdiv{
+  position: absolute;
+  left: 320px;
+  top: 100px;
+}
+.black{
+  background-color: black;
+  width: 1550px;
+  height: 1200px;
+ 
+}
