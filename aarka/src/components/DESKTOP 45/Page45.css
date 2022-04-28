@@ -1,0 +1,298 @@
+.centerpage45{
+    position: absolute;
+    top: 83px;
+    left: 300px;
+    width: 1066px;
+    height: 87.4%;
+    background-color: black;
+    
+}
+.addpackage{
+    position: absolute;
+    top: 71px;
+    left: 210px;
+    width: 994px;
+    height: 78.4%;
+    border: 2px solid red;
+    background-color: #181818;
+    border-radius: 30px;
+    color: aliceblue;
+
+}
+.textaddpackage{
+    position: absolute;
+    top: 15px;
+    left: 27px;
+}
+.multipleselect{
+    position: absolute;
+    top: 133px;
+    width: 938px;
+    left: 33px;
+    background-color: rgb(255, 255, 255);
+}
+.css-w2j40a-MuiAutocomplete-root .MuiAutocomplete-inputRoot .MuiAutocomplete-input{
+    background-color: aliceblue;
+}
+.insidepage45{
+    position: absolute;
+    top: 14px;
+    left: 16px;
+    width: 96.8%;
+    height: 539px;
+    /* border: 2px solid green; */
+    border-radius: 10px;
+    background: #181818;
+}
+.pricingggg{
+    text-align: left;
+    margin-left: 25px;
+    color: rgba(255, 255, 255, 1);
+}
+.horixontal{
+    position: absolute;
+    top: 62px;
+    left: 0px;
+}
+.record{
+    position: absolute;
+    top: 120px;
+    left: 30px;
+    width: 94%;
+    height: 16%;
+    border: 2px solid yellow;
+    border-radius: 10px;
+}
+.year{
+        position: absolute;
+    top: 15px;
+    left: 40px;
+    color: yellow;
+}
+.rupeees{
+    position: absolute;
+    top: 15px;
+    left: 846px;
+    color: yellow;
+}
+.addrecord{
+    position: absolute;
+    top: 267px;
+    width: 94%;
+    height: 16%;
+    left: 30px;
+    background-color: black;
+    border: 2px solid rgba(20, 20, 20, 1);
+
+}
+.imageaddrecord{
+    position: absolute;
+    width: 67px;
+    top: 8px;
+    MARGIN-LEFT: 4PX;
+}
+.addimage{
+    position: absolute;
+    width: 39px;
+    top: 23px;
+    left: 501px;
+}
+.show{
+    position: absolute;
+    top: 1px;
+    color: aliceblue;
+    left: 1px;
+}
+.modal-dialog {
+    max-width: 707px;
+    margin: 5.75rem auto;
+}
+.modal-content {
+    /* position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%; */
+    height: 510px;
+    /* pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 0.3rem;
+    outline: 0; */
+}
+.modal-title {
+    /* margin-bottom: 0;
+    line-height: 1.5; */
+    color: rgb(238, 231, 231);
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #FAC516;
+    border-color: #FAC516;
+    font-weight: bold;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #880A03;
+    border-color: #880A03;
+    font-weight: bold;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #e15757;
+    border-color: #e15757;
+}
+.modal-header {
+    /* display: flex;
+    flex-shrink: 0; */
+    background-color: rgba(20, 20, 20, 1);
+    /* align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    border-bottom: 1px solid #dee2e6;
+    border-top-left-radius: calc(0.3rem - 1px);
+    border-top-right-radius: calc(0.3rem - 1px); */
+}
+.css-w2j40a-MuiAutocomplete-root {
+    width: 640px;
+    /* left: 0;
+    position: absolute;
+    background-color: black;
+    color: pink;
+    border-radius: 20px; */
+}
+.MuiOutlinedInput-root {
+    padding-right: 21px;
+}
+.input-MuiOutlinedInput-input {
+    background-color: black;
+}
+.btn-success {
+    color: #fff;
+    background-color: #1a1a1a;
+    border-color: #000000;
+    width: 100%;
+    position: absolute;
+    top: 25px;
+    height: 61px;
+}
+.dropdown-toggle::after {
+    /* display: inline-block; */
+    margin-left: 31.255em;
+    /* vertical-align: 0.255em;
+    content: "";
+    border-top: 0.3em solid;
+    border-right: 0.3em solid transparent;
+    border-bottom: 0;
+    border-left: 0.3em solid transparent; */
+}
+/* .dropdown-toggle {
+    color: #fff;
+    background-color: #146c43;
+    border-color: #13653f;
+    position: absolute;
+    width: 680px;
+    left: 11px;
+} */
+.btn-success:not(:disabled):not(.disabled).active, .btn-success:not(:disabled):not(.disabled):active, .show>.btn-success.dropdown-toggle {
+    color: #fff;
+    background-color: #1e7e34;
+    border-color: #1c7430;
+    width: 682px;
+    position: absolute;
+    left: 12px;
+    top: 40px;
+}
+
+.btn-success:hover{
+    background-color: #000000;
+}
+.btn-success:not(:disabled):not(.disabled).active, .btn-success:not(:disabled):not(.disabled):active, .show>.btn-success.dropdown-toggle {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+    width: 682px;
+    position: absolute;
+    left: 12px;
+    top: 40px;
+}
+.btn-success:hover {
+    color: #fff;
+    background-color: #040404;
+    border-color: #000000;
+}
+.dropdown-menu {
+    /* position: absolute;
+    z-index: 1000;
+    display: none; */
+    min-width: 42.7rem;
+    /* padding: 0.5rem 0;
+    margin: 0;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: 0.25rem; */
+}
+.pricediscount {
+    position: absolute;
+    width: 668px;
+    height: 55px;
+    margin-left: 2px;
+    background-color: black;
+    border: none;
+    color: aliceblue;
+}
+.btn-success:hover {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+}
+.btn-success {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+}
+.btn-success:hover {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+}
+.modal-body{
+    background-color: rgba(20, 20, 20, 1);
+}
+.modal-footer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0.75rem;
+    border-top: 0px solid #dee2e6;
+    border-bottom-right-radius: calc(0.3rem - 1px);
+    border-bottom-left-radius: calc(0.3rem - 1px);
+    background-color: rgba(20, 20, 20, 1);
+}
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1rem;
+    clear: both;
+    font-weight: 400;
+    color: aliceblue;
+    text-align: inherit;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
+.dropdown-menu.show {
+    display: block;
+    position: absolute;
+    inset: 0px auto auto 0px;
+    transform: translate(12px, 103px);
+    background-color: rgba(20, 20, 20, 1);
+}
