@@ -1,0 +1,66 @@
+.red{
+    background:#3C3C3C;;
+    width: 700px;
+    height: 250px;
+    left: 500px;
+    top: 200px;
+    border-radius: 10px;
+    display: flex;
+    position: absolute;
+    padding: 20px;
+    
+   
+}
+
+select{
+    color: white;
+    width: 500px;
+    height: 50px;
+    margin: 40px;
+    text-decoration: none;
+    padding: 5px;
+   border: none;
+   text-decoration: none;
+   background-color: #141414;
+}
+option{
+    color: white;
+}
+
+.btn{
+    background-color: yellow;
+    position: absolute;
+    top: 380px;
+    left: 1050px;
+    width: 100px;
+    color: white;
+    font-weight: 800;
+    border: none;
+    height: 30px;
+}
+.down{
+    position: relative;
+}
+h4{
+   
+    color: white;
+    position: absolute;
+    background-color: transparent;
+}
+input{
+    position: absolute;
+    top: 175px;
+    left: -110px;
+    width: 20px;
+    height: 20px;
+   
+    
+}
+p{
+    position: absolute;
+    top: 182px;
+    left: 50px;
+    background-color: transparent;
+    color: white;
+
+}
