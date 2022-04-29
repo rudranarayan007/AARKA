@@ -8,7 +8,7 @@ import Firstpage from './components/Firstpage';
 import Secondpage from './components/Secondpage';
 import Thirdpage from './components/Thirdpage';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Page26 from './components/DESKTOP 26/Page26';
+import Page26 from './Page/DESKTOP 26/Page26';
 import Page27 from './components/DESKTOP 27/Page27';
 import Page45 from './components/DESKTOP 45/Page45';
 function App() {
