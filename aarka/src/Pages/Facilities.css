@@ -1,0 +1,51 @@
+.selectbox{
+    width: 590px;
+    height: 555px;
+    background: #201F1F;
+    border-radius: 20px;
+    position: relative;
+    top: 100px;
+    left: 480px;
+    padding-inline: 30px;
+}
+
+h4{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    }
+
+    Button{
+        margin-left: 450px;
+    }
+
+    ul li{
+        padding-block: 7px;
+        padding-inline: 10px;
+        margin-block: 15px;
+    }
+
+    /* .select {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        max-width: 300px;
+        gap: 1px;
+      } */
+      
+      .select__item {
+        /* padding: 10px; */
+        cursor: pointer;
+        font-family: "Heebo", sans-serif;
+        /* text-align: center; */
+        border-radius: 9px;
+        background: #FAC516;
+        color: white;
+        transition: background 0.1s;
+      }
+      
+      .select__item--selected{
+        background: rgb(17, 17, 15);
+        color: #ffffff;
+      }
+      

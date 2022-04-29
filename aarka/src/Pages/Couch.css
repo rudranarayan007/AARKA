@@ -1,0 +1,26 @@
+.couchdetails {
+    position: absolute;
+    left: 450px;
+    top: 70px;
+    background: #201F1F;
+    border-radius: 20px;
+  }
+
+  h5{
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 42px;
+padding-top: 45px;
+padding-bottom: 35px;
+  }
+
+  #btn1{
+    border-radius: 5px;
+  }
+
+  ::placeholder {
+    color: white;
+    opacity: 1;
+    font-size: small;
+  }

@@ -1,0 +1,38 @@
+.editbox{
+width: 690px;
+height: 365px;
+background: #181818;
+border-radius: 20px;
+position: relative;
+top: 200px;
+left: 400px;
+padding-inline: 30px;
+}
+
+h4{
+color: white;
+font-style: normal;
+font-size: 17px;
+font-weight: 500;
+line-height: 42px;
+padding-top: 25px;
+}
+
+hr{
+    border: 0.5px solid #000000;
+}
+
+#btn{
+    color: white;
+    background-color: #880A03;
+    margin-left: 15px;
+    margin-top: 20px;
+    border: 2px solid #880A03;
+
+}
+
+::placeholder {
+    color: white;
+    opacity: 1;
+    font-size: small;
+  }
