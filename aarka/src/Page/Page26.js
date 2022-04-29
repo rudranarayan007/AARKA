@@ -1,7 +1,7 @@
 import React from 'react'
-import LeftMenu from '../LeftMenu'
-import Navigation from '../Navigation'
-import Middlepart from './Middlepart'
+import LeftMenu from '../components/LeftMenu'
+import Navigation from '../components/Navigation'
+import Middlepart from '../components/Middlepart'
 
 function Page26() {
     return (

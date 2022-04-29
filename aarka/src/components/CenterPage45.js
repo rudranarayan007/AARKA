@@ -1,7 +1,7 @@
 import React from 'react'
 import AddRecord from './AddRecord'
 import ReactDOM from 'react-dom'
-import './Page45.css'
+import '../Page/Page45.css'
 function CenterPage45() {
   return ReactDOM.createPortal(
     <div className='centerpage45'>

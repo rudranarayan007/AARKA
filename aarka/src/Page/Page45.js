@@ -1,8 +1,11 @@
 import React from 'react'
-import LeftMenu from '../LeftMenu'
-import Navigation from '../Navigation'
-import CenterPage45 from './CenterPage45'
-import MultipleSelect from './MultipleSelect'
+import LeftMenu from '../components/LeftMenu'
+import Navigation from '../components/Navigation'
+import CenterPage45 from '../components/CenterPage45'
+
+// C:\Users\HARI\Documents\GitHub\Aarka\aarka\src\components\CenterPage45.js
+
+// import MultipleSelect from '../components/DESKTOP 45/MultipleSelect'
 
 function Page45() {
   return (

@@ -1,5 +1,6 @@
 import React from 'react'
-import './Page26.css'
+import '../Page/Page26.css'
+
 function Middlepart(props) {
   return (
     <div className='middlepart'>

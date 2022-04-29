@@ -5,7 +5,8 @@ import { DropdownButton } from 'react-bootstrap';
 import { Button, Modal } from 'react-bootstrap';
 import MultipleSelect from './MultipleSelect'
 
-import './Page45.css'
+import '../Page/Page45.css'
+
 function AddRecord() {
     const [show, setShow] = useState(false);
 
@@ -14,9 +15,9 @@ function AddRecord() {
     return (
         <div>
             <button onClick={handleShow} className='addrecord'>
-                <img className='imageaddrecord' src='./Ellipse 14.png'>
+                <img className='imageaddrecord' src='../asset/image/Ellipse 14.png'>
                 </img>
-                <img className='addimage' src='./Vector (175).png' />
+                <img className='addimage' src='../asset/image/Vector (175).png' />
             </button>
 
 

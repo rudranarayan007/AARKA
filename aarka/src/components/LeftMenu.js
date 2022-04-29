@@ -1,5 +1,5 @@
 import React from 'react'
-import { useNavigate } from 'react-router-dom'
+// import { useNavigate } from 'react-router-dom'
 import './Leftmenu.css'
 // import LeftOptions from './LeftOptions'
 import Logo from './Logo'
@@ -25,24 +25,24 @@ function LeftMenu() {
       <Logo />
       {/* <div className='menu' > */}
       <div className='dashboargtext' style={{ color: 'rgb(245 245 245)', top: "135px" }}>
-          <img src='Subtract (1).png' className='homebutton' />
+          <img src='./asset/image/Subtract (1).png' className='homebutton' />
         <button /*onClick={buttonclicked}*/ className='buttonmenu'>
           <h5 className='textmenuuuu' style={{margin: "21px"}}>Dashboard</h5>
         </button>
 
       </div>
       <div className='dashboargtext' style={{ color: 'rgb(245 245 245)', top: "208px" }}>
-        <img src='vector (3).png' className='homebutton' />
+        <img src='./asset/image/vector (3).png' className='homebutton' />
         <button /*onClick={buttonclickedtwo}*/ className='buttonmenu'>
           <h5  className='textmenuuuu'>Users</h5>
         </button>
       </div>
       <div className='dashboargtext' style={{ color: 'rgb(245 245 245)', top: "281px" }}>
-        <img src='vector (4).png' className='homebutton' />
+        <img src='./asset/image/vector (4).png' className='homebutton' />
         <h5 style={{marginTop:"20px"}}>Sub Admin</h5>
       </div>
       <div className='dashboargtext' style={{ color: 'rgb(245 245 245)', top: "356px" }}>
-        <img src='vector (5).png' className='homebutton' />
+        <img src='./asset/image/vector (5).png' className='homebutton' />
         <button /*onClick={buttonclickedthree}*/ className='buttonmenu'>
           <h5  className='textmenuuuu'>Pricing</h5>
         </button>
